@@ -1,2 +1,1 @@
-# Tarea_1
-tarea calculadora
+Proyecto tarea 1 estructuras de informacion
